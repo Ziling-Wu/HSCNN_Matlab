@@ -6,7 +6,8 @@ Robust X-ray Sparse-view Phase Tomography via Hierarchical Synthesis Convolution
 - In revision process: []
 
 ## Trained network
-- Matlab
+- Implemented in Matlab 2018a with deep learning toolbox
 
 ## Dataset
+Here is the link to download all training dataset:
 [https://www.dropbox.com/sh/uqsd5fl3ho22ucu/AAAdq4RAkqmG5ewElVt2KoNPa?dl=0]
